@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\TugasPraktikum1\bin\Debug\net8.0\TugasPraktikum1.exe
+C:\Users\randy\source\repos\TugasPraktikum1\bin\Debug\net8.0\TugasPraktikum1.deps.json
+C:\Users\randy\source\repos\TugasPraktikum1\bin\Debug\net8.0\TugasPraktikum1.runtimeconfig.json
+C:\Users\randy\source\repos\TugasPraktikum1\bin\Debug\net8.0\TugasPraktikum1.dll
+C:\Users\randy\source\repos\TugasPraktikum1\bin\Debug\net8.0\TugasPraktikum1.pdb
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\TugasPraktikum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\TugasPraktikum1.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\TugasPraktikum1.AssemblyInfo.cs
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\TugasPraktikum1.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\TugasPraktikum1.dll
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\refint\TugasPraktikum1.dll
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\TugasPraktikum1.pdb
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\TugasPraktikum1.genruntimeconfig.cache
+C:\Users\randy\source\repos\TugasPraktikum1\obj\Debug\net8.0\ref\TugasPraktikum1.dll
