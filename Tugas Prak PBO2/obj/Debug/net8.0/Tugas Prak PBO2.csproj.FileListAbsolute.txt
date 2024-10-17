@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\Tugas Prak PBO2\bin\Debug\net8.0\Tugas Prak PBO2.exe
+C:\Users\randy\source\repos\Tugas Prak PBO2\bin\Debug\net8.0\Tugas Prak PBO2.deps.json
+C:\Users\randy\source\repos\Tugas Prak PBO2\bin\Debug\net8.0\Tugas Prak PBO2.runtimeconfig.json
+C:\Users\randy\source\repos\Tugas Prak PBO2\bin\Debug\net8.0\Tugas Prak PBO2.dll
+C:\Users\randy\source\repos\Tugas Prak PBO2\bin\Debug\net8.0\Tugas Prak PBO2.pdb
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\Tugas Prak PBO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\Tugas Prak PBO2.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\Tugas Prak PBO2.AssemblyInfo.cs
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\Tugas Prak PBO2.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\Tugas Prak PBO2.dll
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\refint\Tugas Prak PBO2.dll
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\Tugas Prak PBO2.pdb
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\Tugas Prak PBO2.genruntimeconfig.cache
+C:\Users\randy\source\repos\Tugas Prak PBO2\obj\Debug\net8.0\ref\Tugas Prak PBO2.dll
